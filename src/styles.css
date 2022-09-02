@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Card {
+  maxwidth: 300;
+  margin: "auto";
+  transition: "0.3s";
+  boxshadow: "0 8px 40px -12px rgba(0,0,0,0.3)";
+}
+
+.Media {
+  paddingtop: "56.25%";
+}
+
+.Name {
+  font-style: Astloch;
+  padding: 2vh;
+  color: violet;
+}
+
+.Price {
+  padding: 2vh;
+  color: green;
+}
+
+.Description {
+  padding: 2vh;
+  color: black;
+}
